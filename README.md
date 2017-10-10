@@ -21,6 +21,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Pinto Cebrián, Pablo](https://github.com/pablopinto)
 * [Ruiz López, Alejandro](https://github.com/AleRui)
 * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez)
+* [Suárez Jiménez, José Manuel](https://github.com/josemanuelsj98)
 * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
 
