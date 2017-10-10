@@ -18,5 +18,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Parejo Ramos, Beatriz](https://github.com/BeatrizPR)
 * [Pinto Cebrián, Pablo](https://github.com/pablopinto)
 * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez)
+* [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
 
