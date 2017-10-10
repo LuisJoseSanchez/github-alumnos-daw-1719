@@ -12,3 +12,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Murcia España, Sara](https://github.com/saramurcia)
 * [Parejo Ramos, Beatriz](https://github.com/BeatrizPR)
 * [Pinto Cebrián, Pablo](https://github.com/pablopinto)
+* [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
