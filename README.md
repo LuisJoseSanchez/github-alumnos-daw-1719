@@ -6,6 +6,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Campos Jurado, Rafael](https://github.com/rafacampjurado)
 * [Estebanez Villarrubia, Adán](https://github.com/AdanEstebanez99)
 * [Martin Castro. Jesus](https://github.com/Jesusmc82)
+* [Maza Villalba, Alejandro](https://github.com/alejndr)
 * [Murcia España, Sara](https://github.com/saramurcia)
 * [Parejo Ramos, Beatriz](https://github.com/BeatrizPR)
 * [Pinto Cebrián, Pablo](https://github.com/pablopinto)
