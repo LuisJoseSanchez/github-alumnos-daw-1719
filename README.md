@@ -17,3 +17,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Pinto Cebrián, Pablo](https://github.com/pablopinto)
 * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
+* [Bueno Aguilar, Ángeles](https://github.com/angelesbueno)
