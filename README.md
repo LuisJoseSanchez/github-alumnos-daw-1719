@@ -6,6 +6,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco)
 * [Bueno Aguilar, Ángeles](https://github.com/angelesbueno)
 * [Caballero Molina, Francisco Jesús](https://github.com/fjcmolina)
+* [Campaña Luque , Daniel](https://github.com/DanielCampa)
 * [Campos Jurado, Rafael](https://github.com/rafacampjurado)
 * [Chamorro Silva, Adrián](https://github.com/AdrianChSilva)
 * [Chaparro Barese, Gonzalo Iván](https://github.com/gonzaloivan121)
@@ -23,7 +24,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Pinto Cebrián, Pablo](https://github.com/pablopinto)
 * [Ruiz López, Alejandro](https://github.com/AleRui)
 * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez)
-* [Suárez Jiménez, José Manuel](https://github.com/josemanuelsj98)
 * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk)
+* [Suárez Jiménez, José Manuel](https://github.com/josemanuelsj98)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
 
