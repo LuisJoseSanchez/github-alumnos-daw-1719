@@ -28,5 +28,5 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Suárez Jiménez, José Manuel](https://github.com/josemanuelsj98)
 * [Villalba Sánchez, Adrián](https://github.com/adrianvillalbasanchez)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
-
+* [Zambrana Ruiz, Germán](https://github.com/GermanZR98)
 
