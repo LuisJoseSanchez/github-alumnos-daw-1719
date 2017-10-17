@@ -5,6 +5,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Balsas Martín, David](https://github.com/davidbalsasmartin)
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco)
 * [Bueno Aguilar, Ángeles](https://github.com/angelesbueno)
+* [Burgos García, Denise](https://github.com/Denise98)
 * [Caballero Molina, Francisco Jesús](https://github.com/fjcmolina)
 * [Campaña Luque , Daniel](https://github.com/DanielCampa)
 * [Campos Jurado, Rafael](https://github.com/rafacampjurado)
