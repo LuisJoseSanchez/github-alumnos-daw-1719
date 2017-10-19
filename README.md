@@ -3,6 +3,7 @@
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2017 - 2019 del **IES Campanilas**.
 
 * [Balsas Martín, David](https://github.com/davidbalsasmartin)
+* [Bernal Rodríguez, Juan Francisco](https://github.com/jfbernal92)
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco)
 * [Bueno Aguilar, Ángeles](https://github.com/angelesbueno)
 * [Burgos García, Denise](https://github.com/Denise98)
