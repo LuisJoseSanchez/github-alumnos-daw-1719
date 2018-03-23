@@ -25,7 +25,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * 21 [Murcia España, Sara](https://github.com/saramurcia)
 * 22 [Parejo Ramos, Beatriz](https://github.com/BeatrizPR)
 * 23 [Pinto Cebrián, Pablo](https://github.com/pablopinto)
-* 24 [Puche Velasco, Alejandro](https://github.com/lynxmcflies)
+* 24 [Puche Velasco, Alejandro](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
 * 25 [Ramírez Escribano, Álvaro](https://github.com/AlvaroRamirezEscribano)
 * 26 [Ruiz López, Alejandro](https://github.com/AleRui)
 * 27 [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez)
